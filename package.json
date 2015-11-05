@@ -1,0 +1,23 @@
+{
+  "name": "shahrukh",
+  "version": "1.0.0",
+  "description": "\"creating a simple Rest API\"",
+  "main": "todoApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHAHRUKH-KHAN/srk-Node.git"
+  },
+  "author": "shahrukh khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHAHRUKH-KHAN/srk-Node/issues"
+  },
+  "homepage": "https://github.com/SHAHRUKH-KHAN/srk-Node#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "http": "0.0.0"
+  }
+}
